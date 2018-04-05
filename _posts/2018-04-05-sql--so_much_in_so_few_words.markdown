@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "SQL--So Much In So Few Words."
+date:       2018-04-05 19:03:18 +0000
+permalink:  sql--so_much_in_so_few_words
+---
+
+
+SQL (Structured Query Languange) is a language that was intended to give your database a voice. Your database needs to talk to your application and SQL is the way to commincate that data. This data is presented as raw data, which you can then use to add to your ruby objects and build relationships between those objects, which would be coded in Ruby. This was super fun to watch the things I learned in Ruby be used to talk to a database. I never knew the power of Ruby until now. I was introduced to SQL before, but I was using PHP to talk to my webpage. I like Ruby much better. It appears much more elegant and more fun to code in, but the community to Flatiron probably has something to do with that. 
+
+I was immidiately intrigued by how such a small block of code could take so long to code and play such an important role in a functioning app. Without SQL, the raw data would be too much for humans to go through. This language tells the database which types to present. For instance, when I use SELECT column FROM table, the database knows to return the column named column (most likley not named column in reality). Does this communication remind you of humans? For instance, when you want to talk with your friend, and you are most likely going to talk about lunch with grandma yesterday? I hope not, because friends are a good thing. So to some extent we have a selection of things we will talk about. When I am around my mom, eating with my grandma seems like a relevant subject. I might put this in my mental database of things to talk about with my mom, but not my friends. I have a different relationship with my friends and my mom has a relationship with my grandmother, it is her mom after all. Now in this instance, I am not trying to say SQL returns objects, they don't, but SQL is providing those objects with all of that raw data that makes that object what it is. That raw data I keep mentioning would be like TEXT to represent the name of a song or INTEGER to represent the age of a person. I can even add layers to really create a complex  structure that will provide me with a level of abstraction of desired by programmers.  
