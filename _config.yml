@@ -1,15 +1,14 @@
 # Site settings
+author: Thomas Matlock
 title: Thomas Matlock's Coding Journey 
 header-img: img/home-bg.png
-email: thomasmatlock1994@gmail.com
-copyright_name: zep1994
+email: snaxbags@protonmail.com
+copyright_name: Thomas Matlock
 description: > # this means to ignore newlines until "baseurl:"
-  OO Ruby and SQL
+  Ruby on Rails, Javascript, AJAX,  SQL
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: Snaxbags
 github_username:  zep1994
-learn_profile: zep1994
-email_username: thomasmatlock1994@gmail.com
 
 # Build settings
 markdown: kramdown
